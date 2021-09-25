@@ -1,0 +1,28 @@
+.meal{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgb(147, 112, 216);
+    margin-right: 10px;
+}
+.meal img{
+    width: 250px;
+    padding: 20px;
+}
+.meal-info h2{
+    margin-bottom: 12px;
+    color: #220c49;
+}
+.meal-info a{
+    text-decoration: none;
+}
+.meal-info button{
+    background: mediumslateblue;
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 20px ;
+}

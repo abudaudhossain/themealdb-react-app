@@ -1,0 +1,35 @@
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #9f78ece5;
+}
+nav h3 {
+    font-size: 24px;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    display:inline-block;
+    color:#0c0c2b;
+    
+    font-weight: 500;
+}
+nav a:hover{
+    color: #473d3d;
+}
+
+nav input{
+    width: 300px;
+    height: 35px;
+    border: 3px solid mediumslateblue;
+    background: #c4b0eb;
+    border-radius: 5px;
+    outline: none;
+    color: #0c0c2b;
+    font-size: 20px;
+    padding: 10px;
+    display:inline-block;
+}

@@ -1,0 +1,14 @@
+main{
+    background: #aa7fee38;
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding-bottom: 50px;
+}
+.meals{
+    padding-left: 15%;
+    border-right: 1px solid #aca0f0;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
